@@ -1,23 +1,23 @@
-# TINY Font | (Holloway) Chew, Kean Ho's Creative Visuals
+# Tiny 5x3 Font | (Holloway) Chew, Kean Ho's Creative Visuals
 
 [![banner](/Pictures/banner_1200x630.svg)](#)
 
-TINY font family was originally created over the summer of 2018 as the visual
-identity for an experimental retail pop-up shop in Chinatown, New York City
-called “Today in New York”, or TINY for short designed by
-[Jack Halten Fahnestock](https://github.com/jckfa), and released by
+Tiny 5x3 font family was originally created over the summer of 2018 as the
+visual identity for an experimental retail pop-up shop in
+Chinatown, New York City called “Today in New York”, or Tiny 5x3 for short
+designed by [Jack Halten Fahnestock](https://github.com/jckfa), and released by
 [The Velvetyne Team](http://velvetyne.fr). The shop was the result of an intern
 project at Verdes, a creative agency, between Jack Halten Fahnestock and
 Théïa Flynn, where they sold T-shirts and tote bags customized on the spot.
 
-TINY font is based on the smallest type size (using only 5 of the 16 available
+This font is based on the smallest type size (using only 5 of the 16 available
 print heads) of the HandJet EBS-250, the tool used in the shop for immediate
 printing on textiles. Its variable dot size comes from the HandJet’s adjustable
 ink output.
 
-TINY font comes as a variable font with a size axis to modify 5x3 dot size from
-0—300, as well as 15 separate instances (each increasing the dot size by 20
-units). It has 1300+ glyphs covering:
+It comes as a variable font with a size axis to modify 5x3 dot size from 0—300,
+as well as 15 separate instances (each increasing the dot size by 20 units). It
+has 1300+ glyphs covering:
 
 * Latin-based languages
 * Extensive punctuation including case-sensitive forms
@@ -29,10 +29,10 @@ units). It has 1300+ glyphs covering:
 * Arrows for days
 * Miscellaneous symbols
 
-TINY font's glyph ulitmately inherits from a single component where the user can
-apply additional kerning in increments of +−100 to achieve grid-perfect layouts
-easily. Its stylistic sets are programmed as follows where they can be chained
-together for effects like a wider boxy C with open counters:
+Tiny 5x3 font's glyph ulitmately inherits from a single component where the user
+can apply additional kerning in increments of +−100 to achieve grid-perfect
+layouts easily. Its stylistic sets are programmed as follows where they can be
+chained together for effects like a wider boxy C with open counters:
 
 ```
 Stylistic Set 01: (Mono/duo)spaced forms (kerning must also be disabled)
@@ -43,8 +43,8 @@ Stylistic Set 05: Open counters
 Stylistic Set 06: Shorter diacritic characters (experimental!)
 ```
 
-TINY font divides Adobe's auto leading in half for one dot size between lines or
-refer to the leading formula and table below for specific adjustments:
+Tiny 5x3 font divides Adobe's auto leading in half for one dot size between
+lines or refer to the leading formula and table below for specific adjustments:
 
 ```
 Leading Formula:
@@ -153,8 +153,9 @@ service providers.
 
 All fonts **MUST** be strictly licensed under
 [Open Font License](http://scripts.sil.org/OFL). Some designers modify the
-license terms arbitrarily without taking its legal consequences into account.
-Hence, **DO NOT** commit those fonts.
+license terms arbitrarily without taking its legal consequences into account
+(e.g. trademarking the font). Hence, **DO NOT** commit to those fonts to
+completely avoid downstream having to "use with fear".
 
 For software supply chain, to guarentee the thumbnail generation **IS NOT**
 vendor-locked by any expensive or proprietary software, please **ONLY USE AND
@@ -221,16 +222,16 @@ Attribution is **OPTIONAL**. Whenever required, you **MUST** attribute back to
 the creator(s) as follows:
 
 ```
-Title: TINY Font
+Title: Tiny 5x3 Font
 Creators: Jack Halten Fahnestock; via The Velvetyne Team
 Packaged-By: (Holloway) Chew, Kean Ho
 Contact: hello@chewkeanho.com
-SKU: chewkeanho-visuals-fonts-tiny
+SKU: chewkeanho-visuals-fonts-tiny-5x3
 UUID: B7670C2F-863F-4854-9F4C-CE1F741DFF1B
 License: SIL Open Font License (http://scripts.sil.org/OFL)
 Repository Made On: 2026-03-10
 Repository Made From: Malaysia, South East Asia
-Procure: https://github.com/ChewKeanHo/visuals-fonts-tiny
+Procure: https://github.com/ChewKeanHo/visuals-fonts-tiny-5x3
 ```
 
 
